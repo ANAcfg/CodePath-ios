@@ -2,9 +2,9 @@
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: ANA C FUentes
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/80727432/130888463-517badc1-da83-47e8-bdeb-b2e24ee7603f.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/80727432/131066272-74f7ab89-5116-4c35-b4dd-4cd3b398d1cf.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
